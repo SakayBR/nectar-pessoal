@@ -1,0 +1,2 @@
+rootProject.name = "NectarPessoal"
+include ':app'
